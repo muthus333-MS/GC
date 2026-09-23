@@ -1,7 +1,8 @@
 {
-  "name": "Golden Crystal | Sathyam Food Products",
+  "name": "Golden Crystal ",
   "description": "Manufacturer, packager, and distributor of pure cold-pressed edible oils, ritual pooja oils, and organic grains & millets with seamless online ordering and inventory management.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
-

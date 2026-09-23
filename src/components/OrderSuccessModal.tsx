@@ -15,7 +15,7 @@ export const OrderSuccessModal: React.FC = () => {
     const text = encodeURIComponent(
       `Hi Golden Crystal Support, regarding my recent Order #${latestOrder.orderId}: Could you please confirm estimated delivery date? Thank you!`
     );
-    window.open(`https://wa.me/919443312345?text=${text}`, '_blank');
+    window.open(`https://wa.me/919241114333?text=${text}`, '_blank');
   };
 
   return (

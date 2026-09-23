@@ -105,14 +105,13 @@ export const Footer: React.FC<{ onNavigateToSection: (id: string) => void }> = (
               <div className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 text-stone-500 shrink-0 mt-0.5" />
                 <span>
-                  Sathyam Food Products Oil Mill & Processing Plant,
-                  Industrial Estate, Kangeyam Road, Tirupur District, Tamil Nadu - 638601.
+                  Sathyam Food Products Oil Mill &amp; Processing Plant, No 30, TG Layout, BSK 3rd stage, Bangalore, Karnataka- 560085.
                 </span>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-stone-500 shrink-0" />
-                <a href="tel:+919443312345" className="hover:text-white transition-colors">
-                  +91 94433 12345 / +91 4257 220199
+                <a href="tel:+919241114333" className="hover:text-white transition-colors">
+                  +91 9241114333 / +91 9243334333
                 </a>
               </div>
               <div className="flex items-center gap-2">

@@ -71,7 +71,7 @@ export const CheckoutModal: React.FC = () => {
         const text = encodeURIComponent(
           `*New Order Placed with Golden Crystal*\nOrder ID: ${placedOrder.orderId}\nCustomer: ${formData.name}\nPhone: ${formData.phone}\nAddress: ${formData.address}, ${formData.city} - ${formData.pincode}\nPayment: ${formData.paymentMethod.toUpperCase()}\n\n*Items Ordered:*\n${itemsSummary}\n\n*Total Payable: ₹${placedOrder.total}*`
         );
-        window.open(`https://wa.me/919443312345?text=${text}`, '_blank');
+        window.open(`https://wa.me/919241114333?text=${text}`, '_blank');
       }
 
       setIsSubmitting(false);

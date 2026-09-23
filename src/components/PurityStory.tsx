@@ -104,7 +104,7 @@ export const PurityStory: React.FC = () => {
               Inspect Lab Reports & FSSAI
             </button>
             <a
-              href="tel:+919443312345"
+              href="tel:+919241114333"
               className="px-6 py-3 bg-stone-800 hover:bg-stone-700 text-stone-300 text-xs font-semibold rounded-lg border border-stone-700 transition-colors"
             >
               Direct Mill Inquiry

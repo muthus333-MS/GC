@@ -37,7 +37,7 @@ export const ProductModal: React.FC<ProductModalProps> = ({ product, onClose }) 
     const message = encodeURIComponent(
       `Hello Sathyam Food Products, I am interested in Golden Crystal ${product.name} (${currentVariant.size} - ₹${currentVariant.price}). Please share order & bulk dispatch details.`
     );
-    window.open(`https://wa.me/919443312345?text=${message}`, '_blank');
+    window.open(`https://wa.me/919241114333?text=${message}`, '_blank');
   };
 
   return (
